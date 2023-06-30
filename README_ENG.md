@@ -18,7 +18,7 @@
 
 <!-- Presentation -->
 ## Davi Silva
-<p>Currently, as a student of the Analysis and Systems Development program at <strong><a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">Fatec South Zone</a></strong> and having the dream of working in the field of Back End Development, I'm on a journey of continuous improvement in order to master the necessary technologies and enter this field.</p>
+<p>Currently, as a student of the Analysis and Systems Development program at <strong><a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">Fatec Zona Sul</a></strong> and having the dream of working in the field of Back End Development, I'm on a journey of continuous improvement in order to master the necessary technologies and enter this field.</p>
 <p>Please, don't forget to also check out my repositories here on GitHub!</p>
 
 ---
