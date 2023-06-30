@@ -18,7 +18,7 @@
 
 <!-- 自己紹介 -->
 ## ダヴィ・シルヴァ
-<p> 現在 「<strong><a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">Fatec Zona Sul</a></strong>」の分析とシステム開発というコースの大学生としてバックエンド開発分野で働きたいという夢を持っており、そのため必要な技術を習得し、継続的な改善への道のりを歩んでいます。</p>
+<p> 現在 「<strong><a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">Fatec South Zone</a></strong>」の分析とシステム開発というコースの大学生としてバックエンド開発分野で働きたいという夢を持っており、そのため必要な技術を習得し、継続的な改善への道のりを歩んでいます。</p>
 <p>GitHubに作成したリポジトリも確認し忘れないで下さい！</p>
 
 ---

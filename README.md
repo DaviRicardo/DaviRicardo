@@ -18,7 +18,7 @@
 
 <!-- Apresentação -->
 ## Davi Silva
-<p>No momento, como aluno do curso de Análise e Desenvolvimento de Sistemas na <strong><a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">Fatec South Zone</a></strong> e com o sonho de  atuar no campo de desenvolvimento Back End, estou em uma jornada de aprimoramento contínuo para que possa dominar as tecnologias necessárias e ingressar nessa área.</p>
+<p>No momento, como aluno do curso de Análise e Desenvolvimento de Sistemas na <strong><a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">Fatec Zona Sul</a></strong> e com o sonho de  atuar no campo de desenvolvimento Back End, estou em uma jornada de aprimoramento contínuo para que possa dominar as tecnologias necessárias e ingressar nessa área.</p>
 <p>Por favor, não se esqueça de conferir também os meus repositórios aqui no GitHub!</p>
 
 ---
