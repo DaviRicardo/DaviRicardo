@@ -26,7 +26,7 @@
 <!-- README in EN, JP & PT-BR: -->
 <table align="right">
  <td>Also available in:</td>
-    <tr><td align="center"><a href="README_PT-BR.md">Portuguese</a></tr>
+    <tr><td align="center"><a href="README.md">Portuguese</a></tr>
     <tr><td align="center"> <a href="README_JP.md">Japanese</a></td></tr>
     <tr><td align="center"> <a href="README_ENG.md">English</a></td></tr>
   </td>

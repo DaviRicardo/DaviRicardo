@@ -27,7 +27,7 @@
 <table align="right">
  <td>他には読める言語:</td>
     <tr><td align="center"><a href="README_ENG.md">英語</a></td></tr>
-    <tr><td align="center"><a href="README_PT-BR.md">ポルトガル語</a></tr>
+    <tr><td align="center"><a href="README.md">ポルトガル語</a></tr>
     <tr><td align="center"><a href="README_JP.md">日本語</a></td></tr>
   </td>
 </table>

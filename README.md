@@ -28,7 +28,7 @@
  <td>Disponível também em:</td>
     <tr><td align="center"><a href="README_ENG.md">Inglês</a></td></tr>
     <tr><td align="center"><a href="README_JP.md">Japonês</a></td></tr>
-    <tr><td align="center"><a href="README_PT-BR.md">Português</a></tr>
+    <tr><td align="center"><a href="README.md">Português</a></tr>
   </td>
 </table>
 
