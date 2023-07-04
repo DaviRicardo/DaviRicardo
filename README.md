@@ -80,7 +80,7 @@
 
 <div style="display: flex;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRicardo&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=midnight-purple&hide_border=true&locale=pt-br"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaviRicardo&theme=midnight-purple&hide=prs,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=pt-br"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaviRicardo&theme=midnight-purple&hide=prs,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=pt"/>
 </div>
 
 ### Repositórios em destaque
