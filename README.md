@@ -91,3 +91,4 @@
 <a href="https://github.com/DaviRicardo/Fatec-Zona-Sul_WebProjetoPadaria">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaviRicardo&repo=Fatec-Zona-Sul_WebProjetoPadaria&theme=midnight-purple&hide_border=true&show_owner=false" />
 </a>
+
