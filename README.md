@@ -41,10 +41,6 @@
 
 ### Tecnologias
 
-<!-- GIF Yeji  -->
-<img src="./recursos/yejigif.gif" width="180px" height="197px" align="right" style="border-radius: 10px;">
-
-
 **Atualmente estudando:**
 
 <p align="left">
