@@ -18,33 +18,26 @@
 
 <!-- Presentation -->
 ## Davi Silva
-<p>Currently, as a student of the Analysis and Systems Development program at <strong><a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">Fatec Zona Sul</a></strong> and having the dream of working in the field of Back End Development, I'm on a journey of continuous improvement in order to master the necessary technologies and enter this field.</p>
+<p>Currently, having the objective of entering the area of Java backend development, I’m committed to the study and reproduction of projects that combine basic concepts with in-depth practice and go through stages present in the Software Delivery, simulating a real environment</p>
 <p>Please, don't forget to also check out my repositories here on GitHub!</p>
 
 ---
 
-<!-- README in EN, JP & PT-BR: -->
+<!-- README in EN & PT-BR: -->
 <table align="right">
  <td>Also available in:</td>
     <tr><td align="center"><a href="README.md">Portuguese</a></tr>
-    <tr><td align="center"> <a href="README_JP.md">Japanese</a></td></tr>
-    <tr><td align="center"> <a href="README_ENG.md">English</a></td></tr>
   </td>
 </table>
 
 ### Goals:
 
-<p>・To intern in the IT field;</p>
-<p>・To acquire practical experience in the labor market;</p>
-<p>・To act as a <strong>Back End Developer.</strong></p>
+<p>・To acquire practical experience in the job market;</p>
+<p>・To act as a <strong>Java Backend Developer.</strong></p>
 
 ---
 
 ### Technologies
-
-<!-- Yeji GIF  -->
-<img src="./recursos/yejigif.gif" width="180px" height="197px" align="right" style="border-radius: 10px;">
-
 
 **Currently studying:**
 
