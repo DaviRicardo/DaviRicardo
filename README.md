@@ -18,24 +18,22 @@
 
 <!-- Apresentação -->
 ## Davi Silva
-<p>No momento, como aluno do curso de Análise e Desenvolvimento de Sistemas na <strong><a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">Fatec Zona Sul</a></strong> e com o sonho de  atuar no campo de desenvolvimento Back End, estou em uma jornada de aprimoramento contínuo para que possa dominar as tecnologias necessárias e ingressar nessa área.</p>
+<p>Atualmente com o objetivo de ingressar na área de desenvolvimento Back End Java estou me empenhando no estudo e reprodução de projetos dessa natureza que aliando conceitos básicos a prática aprofundada, passam por etapas presentes no desenvolvimento e entrega de produtos de software, simulando um ambiente real. </p>
 <p>Por favor, não se esqueça de conferir também os meus repositórios aqui no GitHub!</p>
 
 ---
 
-<!-- README em EN, JP & PT-BR: -->
+<!-- README em EN & PT-BR: -->
 <table align="right">
  <td>Disponível também em:</td>
     <tr><td align="center"><a href="README_ENG.md">Inglês</a></td></tr>
-    <tr><td align="center"><a href="README.md">Português</a></tr>
   </td>
 </table>
 
 ### Objetivos
 
-<p>・Estagiar na área de TI;</p>
 <p>・Adquirir experiências práticas no mercado de trabalho;</p>
-<p>・Atuar como um <strong>Desenvolvedor Back End.</strong></p>
+<p>・Atuar como <strong>Desenvolvedor Back End.</strong></p>
 
 ---
 
