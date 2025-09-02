@@ -18,7 +18,7 @@
 
 <!-- Apresentação -->
 ## Davi Silva
-<p>Atualmente com o objetivo de ingressar na área de desenvolvimento Back End Java estou me empenhando no estudo e reprodução de projetos dessa natureza que aliando conceitos básicos a prática aprofundada, passam por etapas presentes no desenvolvimento e entrega de produtos de software, simulando um ambiente real. </p>
+<p>Atualmente com o objetivo de ingressar na área de desenvolvimento Back-End Java estou me empenhando no estudo e reprodução de projetos dessa natureza que aliando conceitos básicos a prática aprofundada, passam por etapas presentes no desenvolvimento e entrega de produtos de software, simulando um ambiente real. </p>
 <p>Por favor, não se esqueça de conferir também os meus repositórios aqui no GitHub!</p>
 
 ---
