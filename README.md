@@ -33,7 +33,7 @@
 ### Objetivos
 
 <p>・Adquirir experiências práticas no mercado de trabalho;</p>
-<p>・Atuar como <strong>Desenvolvedor Back End.</strong></p>
+<p>・Atuar como <strong>Java Backend Developer.</strong></p>
 
 ---
 
